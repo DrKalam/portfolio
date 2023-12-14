@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kuldeep Varma Resume</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Kuldeep Varma</h1>
+      <p>MBBS Doctor and Med Tech student</p>
+      <p>Seeking a position in the medical science and technology sector for mutual growth and profit where I can get a learning environment.</p>
+    </header>
+    <main>
+      <h2>Education</h2>
+      <ul>
+        <li>
+          <h3>MBBS</h3>
+          <p>Govt Medical College Nagpur</p>
+          <p>08/2012-02/2016</p>
+          <p>NAGPUR</p>
+        </li>
+        <li>
+          <h3>Masters in Medical Science and Technology</h3>
+          <p>IIT KHARAGPUR</p>
+          <p>08/2023-Present</p>
+        </li>
+      </ul>
+      <h2>Work Experience</h2>
+      <ul>
+        <li>
+          <h3>MEDICAL OFFICER</h3>
+          <p>RH BRAMHAPURI</p>
+          <p>02/2019-09/2019</p>
+          <p>MAHARASTRA</p>
+        </li>
+        <li>
+          <h3>MEDICAL OFFICER</h3>
+          <p>PHC YENWA</p>
+          <p>02/2018-07/2018</p>
+          <p>MAHARASTRA</p>
+        </li>
+        <li>
+          <h3>MEDICAL OFFICER</h3>
+          <p>Sanjeevani clinic Krishnapura</p>
+          <p>08/2022-07/2023</p>
+          <p>Indore</p>
+        </li>
+      </ul>
+      <h2>Other Experiences</h2>
+      <ul>
+        <li>
+          <h3>KEY LEARNING</h3>
+          <p>As Medical Officer
+*Diagnosis and treating common illnesses</p>
+          <p>*Assisting the seniors doctors for check ups</p>
+          <p>*Assisting in surgeries like appendicectomy and hernia repair etc</p>
+          <p>*In case of emergency performing managment and basic treatment, etc</p>
+        </li>
+      </ul>
+      <h2>Extra-Curricular Achievements</h2>
+      <ul>
+        <li>
+          <h3>Runner up university chess championship (2013-2014)</h3>
+        </li>
+      </ul>
+    </main>
+  </div>
+</body>
+</html>
